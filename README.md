@@ -16,3 +16,14 @@
 
 
 <br />
+
+<link rel="stylesheet" href="css/rrssb.css" />
+
+<a class="btn btn-block btn-social btn-linkedin">
+  <span class="fa fa-linkedin"></span>
+  Sign in with Twitter
+</a>
+
+<a class="btn btn-social-icon btn-linkedin">
+  <span class="fa fa-linkedin"></span>
+</a>
