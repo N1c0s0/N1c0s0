@@ -16,14 +16,6 @@
 
 
 <br />
+<link rel="stylesheet" href="../css/social-circles.min.css">
+<a class="icon-linkedin social-button grey" href="https://www.linkedin.com/in/nicol%C3%A1s-osorio-aa2b63243/"></a>
 
-<link rel="stylesheet" href="css/rrssb.css" />
-
-<a class="btn btn-block btn-social btn-linkedin">
-  <span class="fa fa-linkedin"></span>
-  Sign in with Twitter
-</a>
-
-<a class="btn btn-social-icon btn-linkedin">
-  <span class="fa fa-linkedin"></span>
-</a>
