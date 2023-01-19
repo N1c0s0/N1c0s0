@@ -1,5 +1,4 @@
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1c0s0=true&theme=gruvbox)
 
 ---
 
