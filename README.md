@@ -22,4 +22,4 @@ bower install bootstrap-social
 <a class="btn btn-social-icon btn-twitter">
   <span class="fa fa-twitter"></span>
 </a>
-    <a href="[https://www.youtube.com/c/fknight](https://www.linkedin.com/in/nicol%C3%A1s-osorio-aa2b63243/)">
+    <a href="https://www.linkedin.com/in/nicol%C3%A1s-osorio-aa2b63243/">
