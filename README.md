@@ -18,7 +18,7 @@
 <br />
 
 ### Contact
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-osorio-aa2b63243/">
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-osorio-/">
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=currentColor" />
  
 </a>
